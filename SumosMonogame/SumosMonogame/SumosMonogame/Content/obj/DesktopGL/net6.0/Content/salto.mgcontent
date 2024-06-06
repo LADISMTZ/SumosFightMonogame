@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/f126a/OneDrive/Documentos/GitHub/LaboratorioVideojuegos/SumosMonogame/SumosMonogame/SumosMonogame/Content/salto.mp3</SourceFile>
+  <SourceTime>2024-05-01T14:18:01.3319205-06:00</SourceTime>
+  <DestFile>C:/Users/f126a/OneDrive/Documentos/GitHub/LaboratorioVideojuegos/SumosMonogame/SumosMonogame/SumosMonogame/Content/bin/DesktopGL/Content/salto.xnb</DestFile>
+  <DestTime>2024-05-01T14:19:17.6676188-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T06:44:56-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T06:44:56-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/f126a/OneDrive/Documentos/GitHub/LaboratorioVideojuegos/SumosMonogame/SumosMonogame/SumosMonogame/Content/bin/DesktopGL/Content/salto.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

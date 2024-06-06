@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mk5Nu3Ix0A8IqHpvDki4KL+5l7916ymHBuz8jMw8skYp1g1uo2k/V6tkf3UOZA9d+IMxDswqCX4VypIA84/urA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f126a\\OneDrive\\Documentos\\GitHub\\LaboratorioVideojuegos\\SumosMonogame\\SumosMonogame\\SumosMonogame\\SumosMonogame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f126a\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.29\\microsoft.netcore.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.29\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.29.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.29\\microsoft.aspnetcore.app.runtime.win-x86.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
